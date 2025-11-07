@@ -47,6 +47,6 @@ Each department has distinct network requirements that are addressed through pro
 
 Simulated a real-world corporate network environment
 
-🏁 Outcome
+# Outcome
 
 A fully functional simulated network that demonstrates departmental segmentation, optimized IP planning, and secure communication across all areas of GreenSpark Tech.
