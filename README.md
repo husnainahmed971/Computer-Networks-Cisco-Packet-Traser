@@ -1,5 +1,6 @@
 # GreenSpark Tech – Network Design Project
-     ### Tool: Cisco Packet Tracer
+# Tool: 
+- Cisco Packet Tracer
 
 # Overview
 
